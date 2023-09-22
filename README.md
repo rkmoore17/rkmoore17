@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### #TotallyNotAMemeticKillAgent
+![scp-001-memetic-kill-agent](https://scp-wiki.wdfiles.com/local--files/scp-001/fractal-mka.jpeg)
 <!--
 **rkmoore17/rkmoore17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
